@@ -4,7 +4,7 @@ Shinpuru uses Discord.py **Rewrite** 🎉
 
 ## How to run:
 
-**You need..** 
+**You'll need..** 
 - Text Editor (_Atom_, _VSC_, _PyCharm_, _Sublime Text_, etc.)
 - _Python_ 3.6+ 
 - _Discord.py_ Rewrite [Install Here](https://github.com/Rapptz/discord.py)
