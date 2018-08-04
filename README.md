@@ -1,4 +1,4 @@
-# Shinpuru: A Simple Discord bot for beginners! 
+# Shinpuru: A Simple Discord bot for beginners! `if you have any questions submit an issue, or DM me on discord: lukee#0420`
 
 Shinpuru uses Discord.py **Rewrite** 🎉
 
