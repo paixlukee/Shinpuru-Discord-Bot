@@ -26,7 +26,7 @@ Shinpuru uses Discord.py **Rewrite** 🎉
 
 ![token_img](https://image.ibb.co/dyNndz/tk.png)
 
-**5.** Get the OAuth in the portal, or go [here](https://discordapi.com/permissions.html#0) and insert your client ID (you can get it from the developer portal) and customise your bot invite link to your liking!
+**5.** Get the OAuth in the portal, or go [here](https://discordapi.com/permissions.html#0) and insert your client ID (you can get it from the developer portal) and customise the invite link to your liking!
 
 **6.** Invite the bot to your server, and we are done for this part!
 
