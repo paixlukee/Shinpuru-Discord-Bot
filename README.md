@@ -1,7 +1,6 @@
 # Shinpuru: A Simple Discord bot for beginners! 🎉
 
-### Stats
-Discord.py **Rewrite**
+Shinpuru uses Discord.py **Rewrite**
 
 ## How to run:
 
