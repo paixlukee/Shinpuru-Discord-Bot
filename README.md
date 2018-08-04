@@ -6,8 +6,9 @@ Shinpuru uses Discord.py **Rewrite** 🎉
 
 **You need..** 
 - Text Editor (_Atom_, _VSC_, _PyCharm_, _Sublime Text_, etc.)
-- _Python_ 3.6+ Installed on your computer
+- _Python_ 3.6+ 
 - _Discord.py_ Rewrite [Install Here](https://github.com/Rapptz/discord.py)
+- _Git Bash_ [Download](https://git-scm.com/downloads)
 
 
 **The easy stuff..**
@@ -34,6 +35,9 @@ Shinpuru uses Discord.py **Rewrite** 🎉
 
 
 **Installing..**
+
+**1.** Run the following command line in Git Bash:
+`$ git clone https://github.com/paixlukee/Shinpuru-Discord-Bot`
 
 
 
